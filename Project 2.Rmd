@@ -1,10 +1,10 @@
 ---
-title: "Reproducible Research Week4 project"
+title: "IMPACT OF WEATHER EVENTS ON PUBLIC HEALTH AND THEIR ECONOMIC CONSEQUENCES"
 author: "YH"
 date: "11/12/2019"
 output:
-  html_document: default
   pdf_document: default
+  html_document: default
 ---
 ## Background
 Storms and other severe weather events can cause both public health and economic problems for communities and municipalities. Many severe events can result in fatalities, injuries, and property damage, and preventing such outcomes to the extent possible is a key concern.
